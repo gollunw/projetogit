@@ -1,10 +1,10 @@
-/*
-To change this license header, choose License Headers in Project Properties.
-To change this template file, choose Tools | Templates
-and open the template in the editor.
-*/
-/* 
-    Created on : 23/10/2017, 11:51:15
-    Author     : aluno
-*/
++body{
++    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRnaAo4tkYZf1X3AsM4NPCsizW3vDNspA_g74GaEHZ09TQ88Ha");
++}
++.row{
++	width: 1000px;
++	background-color: beige;
++	margin: 0 auto;
++}
+
 
