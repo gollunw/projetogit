@@ -1,7 +1,7 @@
 <html>
      <head>
        <meta charset="UTF-8">
-      <title></title>
+      <title>Projeto</title>
       <title>Formulário de contato</title>
         <link href="folha.css" rel="stylesheet" type="text/css"/>
    </head>
