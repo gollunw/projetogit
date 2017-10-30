@@ -1,0 +1,12 @@
+body{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRnaAo4tkYZf1X3AsM4NPCsizW3vDNspA_g74GaEHZ09TQ88Ha");
+}
+.row{
+	width: 1000px;
+	background-color: beige;
+	margin: 0 auto;
+}
+.form-group{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
